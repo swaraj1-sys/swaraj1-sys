@@ -2,7 +2,7 @@
 
 ### 🌱 Student | Developer | Lifelong Learner
 
-I’m currently a 7th semester student working towards my Bachelor's degree in Computer Science. Passionate about solving real-world problems using technology, I’m actively honing my skills in software development and contributing to open-source projects. I enjoy exploring new domains, from web development to data science and AI, while keeping an eye on trends shaping the future of tech.
+I’m currently a job seeking candidate and I've completed my Bachelor's degree in Computer Science with 8.23 GPA. Passionate about solving real-world problems using technology, I’m actively honing my skills in software development and contributing to open-source projects. I enjoy exploring new domains, from web development to data science and AI, while keeping an eye on trends shaping the future of tech.
 
 ---
 
